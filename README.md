@@ -2,3 +2,4 @@
 
 To-do List
 1. add reset button.
+2. make responsive
